@@ -1,4 +1,4 @@
-# PatikaDev CSS Odev2
+# PatikaDev CSS Odev 2
 
 Bu proje, Patika.dev platformunda aldığım CSS kursunun ikinci ödevini gerçekleştirmek amacıyla oluşturulmuştur.
 
